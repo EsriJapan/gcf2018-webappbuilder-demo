@@ -8,16 +8,6 @@
 * [Web AppBuilder for ArcGIS](https://doc.arcgis.com/ja/web-appbuilder/)
 
 
-## 動作環境
-
-* Windows 7, 8, 8.1, 10
-
-
-## リソース
-
-* [ArcPy スタートアップガイド](https://bit.ly/2pmhBpf)
-
-
 ## ライセンス
 Copyright 2018 Esri Japan Corporation.
 
