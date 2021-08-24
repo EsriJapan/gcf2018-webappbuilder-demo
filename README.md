@@ -5,7 +5,7 @@
 
 ## 使用している製品・プロジェクト
 
-* [Web AppBuilder for ArcGIS](https://doc.arcgis.com/ja/web-appbuilder/)
+* [ArcGIS Web AppBuilder](https://doc.arcgis.com/ja/web-appbuilder/)
 
 
 ## ライセンス
