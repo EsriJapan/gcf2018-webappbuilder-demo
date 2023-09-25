@@ -3,7 +3,7 @@
 >
 > ArcGIS Web AppBuilder のサポート終了についての詳細は、ArcGIS ブログ「[ArcGIS Web AppBuilder のサポート終了について](https://blog.esrij.com/2023/03/17/post-48664/)」をご参照ください。
 >
-> アプリの作成には、最新バージョンの [ArcGIS Experience Builder](https://www.esrij.com/products/arcgis-experience-builder//) をご利用ください。
+> アプリの作成には、最新バージョンの [ArcGIS Experience Builder](https://www.esrij.com/products/arcgis-experience-builder/) をご利用ください。
 
 本リポジトリでは、第14回 GISコミュニティフォーラムのプレフォーラム・セミナー「プログラミングゼロ！ ～Web GIS アプリ 3 分メイキング～ 」で紹介したアプリの作成手順を公開しています。作成手順は「doc.md」をご覧ください。
 
